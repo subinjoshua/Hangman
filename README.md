@@ -1,5 +1,5 @@
 # Hangman
-<p>Basic Hangman game,the word-to-guess pre exisits in code. This program is to demonstrate my python skills after 3 weeks of learning python.</p>
+<p>Hangman game written in Python3. This program is to demonstrate my python skills after 3 weeks of learning python.</p>
 ## Hangman_1 
 <p> Basic Hangman game,the word-to-guess pre exisits in code. </p>
 ## Hangman_2
