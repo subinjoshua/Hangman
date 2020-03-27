@@ -1,0 +1,7 @@
+txt file taken from http://www.gwicks.net/dictionaries.htm
+txt file has been edited:
+- all len(letters)<6 has been removed
+- all letters ending with "ed" has been removed
+- all letters ending with "ing" has been removed
+- all letters ending with "ions" has been removed
+- all letters ending with "s" has been removed
