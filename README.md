@@ -8,7 +8,7 @@
 <p> This version of the Hangman game take the word from a text containing words</p>
 
 ## Further plans:
-- ~~Next iteration will be using a text file with words in it and the program would randomly select a word~~
+- ~~Next iteration will be using a text file with words in it and the program would randomly select a word~~ &#x2611;
 - Will include GUI 
 
 ## To  improve:
