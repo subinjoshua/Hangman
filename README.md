@@ -1,5 +1,5 @@
 # Hangman
-<p>Hangman game written in Python3. This program is to demonstrate my python skills after 3 weeks of learning python.</p>
+<p>Hangman game written in Python3. This program besides being the classic Hangman game, also scrapes the word's definition off the net. Fun way to teach yourself new words and their definitions.</p>
 
 ## Hangman_1 
 <p> Basic Hangman game,the word-to-guess pre exisits in code. </p>
